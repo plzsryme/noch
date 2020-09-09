@@ -1,5 +1,6 @@
 .h1{
 margin-left: 190px;
+font-family: Arial, Helvetica, sans-serif;
 }
 .card0{
   display: flex;
@@ -28,15 +29,20 @@ img{
   max-height: 100%;
 }
 h2{
-  margin: 5px 5px 5px 5px;
+  margin: 10px 5px 10px 5px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 h3{
   margin: 5px 5px 5px 5px;
-  height: 70px;
+  height: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: rgb(104, 98, 98);
 }
 button{
-  border-radius: 10px;
-  background: rgb(155, 194, 212);
+  border-radius: 4px;
+  background: rgb(241, 245, 252);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   width: 35%;
   height: 25px;
 }
