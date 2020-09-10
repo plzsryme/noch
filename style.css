@@ -40,9 +40,14 @@ h3{
   color: rgb(104, 98, 98);
 }
 button{
-  border-radius: 4px;
-  background: rgb(241, 245, 252);
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  width: 35%;
-  height: 25px;
+  display: inline-block;
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding: .5em 2em;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  transition: 0.2s;
 }
