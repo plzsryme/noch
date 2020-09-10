@@ -41,11 +41,11 @@ h3{
 }
 button{
   display: inline-block;
-  color: white;
+  color: rgb(85, 59, 180);
   font-weight: 700;
   text-decoration: none;
-  user-select: none;
-  padding: .5em 2em;
+  user-select: none;g
+  padding: .5em 2em;  
   outline: none;
   border: 2px solid;
   border-radius: 1px;
